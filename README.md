@@ -6,5 +6,5 @@ Currently diving more into vibe coding as AI is gradually becoming the norm.
 
 
 <br>TOOLS AND TECH<br/>
-<br>Python, C, R, SQL, HTML, CSS<br/>
+Python, C, R, SQL, HTML, CSS
 Cursor, Claude, Docker
